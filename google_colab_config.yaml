@@ -1,0 +1,6 @@
+path: '/content/gdrive/My Drive/Colab Notebooks/data'
+train: images/train
+val: images/val
+
+names:
+  0: human

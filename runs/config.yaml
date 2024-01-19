@@ -1,0 +1,7 @@
+path: r'C:\Users\Admin\PycharmProjects\pythonProject\datasets' # replace with your correct path
+train: r"C:\Users\Admin\PycharmProjects\pythonProject\datasets\labels\train"
+val: r"C:\Users\Admin\PycharmProjects\pythonProject\datasets\labels\val"
+
+names:
+  0: human
+
